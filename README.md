@@ -5,7 +5,7 @@
 
 <img src="https://github.com/yenchulin/Junction/raw/master/Junction_Image.png">
 
-People can draw cards and build connections with others based on their professional fields. 
+People can draw cards and build connections with others based on their professional fields. 
 
 ## Requirements
 
@@ -18,10 +18,10 @@ People can draw cards and build connections with others based on their professi
 
 Description of the files and directories.
 
-### Junction/
+### 📁 Junction
 > A directory that contains the files to build up the app.
 
-### Podfile
+### 📄 Podfile
 > A file that states the frameworks installed in the app.
 
 * **Alamofire** for networking.
