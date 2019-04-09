@@ -5,7 +5,7 @@
 
 <img src="https://github.com/yenchulin/Junction/raw/master/Junction_Image.png">
 
-People can draw cards and build connections with others based on their professional fields. 
+People can draw cards and build connections with others based on their professional fields. 
 
 ## Requirements
 
